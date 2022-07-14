@@ -1,4 +1,5 @@
 #include "main"
+#include <stdio>
 
 /**
  * _strcmp - compares two strings
